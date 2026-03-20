@@ -1,0 +1,15 @@
+PRE-DATABASE LOCK READINESS REPORT
+Study: XYZ-2026 | Date: 2026-03-20
+==================================================
+
+Total Queries: 84
+Closed: 33 (39.3%)
+Open/Answered: 51 (60.7%)
+Hard & Unresolved: 42
+
+FAIL — All HARD queries resolved
+FAIL — Overall closure rate >= 90%
+FAIL — No site with >70% open rate
+PASS — All SAE queries resolved
+
+VERDICT: NOT READY FOR LOCK
