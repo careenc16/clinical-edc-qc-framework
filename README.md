@@ -21,7 +21,7 @@ Between 2016–2023, the FDA issued **1,766+ warning letters** citing data integ
 
 **Result:** Entire NDA rejected. Shareholders sued. Leadership replaced.
 
-> The FDA and EMA are now shifting to **technology-focused inspections** in 2026 — evaluating whether clinical trial systems **prevent** data integrity failures, not just document them after the fact.
+> The FDA and EMA are now shifting to **technology-focused inspections** in 2026 evaluating whether clinical trial systems **prevent** data integrity failures, not just document them after the fact.
 
 **This project builds the solution.**
 
@@ -258,10 +258,10 @@ python python/05_generate_screenshots.py     # Step 7: Generate eCRF mockups
 **Careen Chowrappa**
 MS in Data Science | Clinical Data Analytics & EDC Configuration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/careen-c-961018195/)
 [![GitHub](https://img.shields.io/badge/GitHub-careenc16-black)](https://github.com/careenc16)
 
-> This project was built to demonstrate EDC configuration and QC competency for clinical data management roles at CROs (IQVIA, Parexel, ICON, Medpace) and pharmaceutical companies. It addresses real FDA BIMO data integrity findings through a proactive, automated approach to clinical data quality.
+> This project was built to address real FDA BIMO data integrity findings through a proactive, automated approach to clinical data quality.
 
 ---
 
