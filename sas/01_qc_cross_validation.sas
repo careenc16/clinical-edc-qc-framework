@@ -4,16 +4,7 @@
 * Study:    XYZ-2026 Phase II Diabetes Trial
 * Author:   Careen Chowrappa
 * Date:     March 2026
-*
-* This script independently replicates all edit checks from
-* the Python QC engine (02_qc_engine.py) to confirm 100%
-* consistency between tools — a standard practice in
-* clinical data management for regulatory submissions.
-*
-* Run in: SAS OnDemand for Academics (free)
-*         https://odamid.oda.sas.com
-*
-* Maps to ICON JD: "Ensuring data integrity and reliability"
+
 ************************************************************/
 
 options nocenter linesize=120 pagesize=60;
@@ -23,7 +14,6 @@ footnote "Generated: &sysdate | SAS &sysver | Cross-validation against Python QC
 
 /*----------------------------------------------------------
   STEP 1: IMPORT ALL CSV DATA FILES
-  Upload your CSV files to SAS OnDemand home directory first
 ----------------------------------------------------------*/
 
 %let datapath = /home/&sysuserid/clinical-edc-qc-framework/data;

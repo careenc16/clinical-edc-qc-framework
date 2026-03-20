@@ -5,8 +5,6 @@ Purpose: Simulate full query lifecycle for discrepancy management
 Study:   XYZ-2026
 Author:  Careen Chowrappa
 ============================================================
-Maps to ICON JD: "Collaborating with cross-functional teams
-to address QC findings and ensure data integrity"
 ============================================================
 """
 

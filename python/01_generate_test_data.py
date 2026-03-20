@@ -13,8 +13,6 @@ Clinical parameters calibrated against published trials:
   Mean age: 55.6 (SD 10), HbA1c: 8.84 (SD 0.94)%,
   BMI: 29.68 (SD 4.79) kg/m²
 ============================================================
-Maps to ICON JD: "Validation plans and procedures to assess
-the functionality and performance of EDC systems"
 ============================================================
 """
 

@@ -5,8 +5,6 @@ Purpose: Generate Edit Check Specification Document
 Study:   XYZ-2026
 Author:  Careen Chowrappa
 ============================================================
-Maps to ICON JD: "Validation plans and procedures to assess
-the functionality and performance of EDC systems"
 ============================================================
 """
 
