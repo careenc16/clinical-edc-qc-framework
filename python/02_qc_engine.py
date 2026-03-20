@@ -10,9 +10,6 @@ Date:    March 2026
 Runs 20 edit checks across 5 SDTM domains (DM, AE, VS, LB, CM)
 Generates a discrepancy database with auto-classified queries
 ============================================================
-Maps to ICON JD: "Performing quality control (QC) checks on
-clinical trial data and study documentation to identify
-discrepancies, inconsistencies, and data entry errors"
 ============================================================
 """
 
